@@ -11,7 +11,7 @@
   </div>
 </h1>
 
-### A game designer and developer, combining skills and knowledges from a variety of fields.
+<h3 align="center">A game designer and developer, combining skills and knowledges from a variety of fields</h3>
 
 #### Education
 
