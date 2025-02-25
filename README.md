@@ -65,7 +65,6 @@
         <img title="C++" alt="C++" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
         <img title="Rust" alt="Rust" width=50 height=50 src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png">
         <img title="Python" alt="Python" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-        <img title="HTML 5" alt="HTML 5" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
       </th>
     </tr>
   </tbody>
