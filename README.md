@@ -34,8 +34,7 @@
     <tr>
       <th>Design & Management</th>
       <th>Development</th>
-      <th>Programming</th>
-      <th>Art</th>
+      <th>Languages</th>
     </tr>
   </thead>
   <tbody>
@@ -54,28 +53,19 @@
         <img title="Unity" alt="Unity" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
         <img title="Unreal Engine" alt="Unreal Engine" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
         <img title="JetBrains Rider" alt="JetBrains Rider" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg">
-        <img title="JetBrains CLion" alt="JetBrains CLion" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg">
         <img title="JetBrains PyCharm" alt="JetBrains PyCharm" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
         <img title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
-        <img title="Microsoft Visual Studio Code" alt="Microsoft Visual Studio Code" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-        <img title="Firebase" alt="Firebase" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
         <img title="Oracle MySQL" alt="Oracle MySQL" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
         <img title="Git" alt="Git" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-        <img title="GitLab" alt="GitLab" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
         <img title="GitHub" alt="GitHub" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
       </th>
       <th>
         <img title="C#" alt="C#" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
         <img title="C" alt="C" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
         <img title="C++" alt="C++" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-        <img title="Python" alt="Python" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
         <img title="Rust" alt="Rust" width=50 height=50 src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png">
-      </th>
-      <th>
-        <img title="Adobe Illustrator" alt="Adobe Illustrator" width=50 height=50 src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg">
-        <img title="Adobe Photoshop" alt="Adobe Photoshop" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
-        <img title="Blender" alt="Blender" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
-        <img title="FL Studio" alt="FL Studio" width=30 height=50 hspace=10 src="https://www.image-line.com/static/assets/nav-logo-fruit.41db863.png">
+        <img title="Python" alt="Python" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+        <img title="HTML 5" alt="HTML 5" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
       </th>
     </tr>
   </tbody>
