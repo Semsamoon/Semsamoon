@@ -16,12 +16,12 @@
 #### Education
 
 <div>
-  <img align="left" width=50 height=50 src="https://media.licdn.com/dms/image/v2/D4E0BAQHFUf_F7UbYUg/company-logo_100_100/company-logo_100_100/0/1722003275924/__logo?e=1748476800&v=beta&t=WyjiasJ6-lI1by8n5mO7OCr5QR21aFmE1rhUqYP8gK4">
+  <img align="left" width=50 height=50 src="https://avatars.mds.yandex.net/i?id=bb5336537f0bdb26b3547f5baeecc3107ca2de88-8326073-images-thumbs&n=13">
   
   **Master of Science** &mdash; Game Development Technologies<br/>
   ITMO University, St. Petersburg, Russia
   
-  <img align="left" width=50 height=50 src="https://media.licdn.com/dms/image/v2/C510BAQGMVnaUaN9ACQ/company-logo_100_100/company-logo_100_100/0/1631315078765?e=1748476800&v=beta&t=L_WU1s9ceHWAMh7sKZ0LE2jP5e_4z0I2zCTTOWK40WU">
+  <img align="left" width=50 height=50 src="https://storage.myseldon.com/yugo/F1BC14F476E28D5C0DED380B5E24E7EB.png">
   
   **Bachelor of Science** &mdash; Computer-Aided Design Systems<br/>
   Bauman Moscow State Technical University, Russia
@@ -40,9 +40,9 @@
   <tbody>
     <tr>
       <th>
-        <img title="Google Docs" alt="Google Docs" width=50 height=50 src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_48dp.png">
-        <img title="Google Sheets" alt="Google Sheets" width=50 height=50 src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png">
-        <img title="Google Presentations" alt="Google Presentations" width=50 height=50 src="https://www.gstatic.com/images/branding/product/1x/slides_2020q4_48dp.png">
+        <img title="Google Docs" alt="Google Docs" width=50 height=50 src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_512dp.png">
+        <img title="Google Sheets" alt="Google Sheets" width=50 height=50 src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_512dp.png">
+        <img title="Google Presentations" alt="Google Presentations" width=50 height=50 src="https://www.gstatic.com/images/branding/product/1x/slides_2020q4_512dp.png">
         <img title="Figma" alt="Figma" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
         <img title="Miro" alt="Miro" width=50 height=50 src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg">
         <img title="Confluence" alt="Confluence" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg">
@@ -63,7 +63,7 @@
         <img title="C#" alt="C#" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
         <img title="C" alt="C" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
         <img title="C++" alt="C++" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-        <img title="Rust" alt="Rust" width=50 height=50 src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png">
+        <img title="Rust" alt="Rust" width=50 height=50 src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-512x512.png">
         <img title="Python" alt="Python" width=50 height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
       </th>
     </tr>
