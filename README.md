@@ -13,6 +13,12 @@
 
 <h3 align="center">A game designer and developer, combining skills and knowledges from a variety of fields</h3>
 
+#### Experience
+
+- Indie game developer, created "Jump Movement" (available on [Steam](https://store.steampowered.com/app/1796570/Jump_Movement/))
+- Researcher and developer of Entity-Component-System architecture
+- Researcher of AI technologies for games
+
 #### Education
 
 <div>
