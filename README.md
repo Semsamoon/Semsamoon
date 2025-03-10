@@ -15,7 +15,8 @@
 
 #### Experience
 
-- Indie game developer, created "Jump Movement" (available on [Steam](https://store.steampowered.com/app/1796570/Jump_Movement/))
+- Game programmer and designer in EDi iLab Game, worked on "Fortress of Sinister: Tactics of Heroes" (available on [Google Play](https://play.google.com/store/apps/details?id=com.Ediilabgame.FOS))
+- Indie game developer, made "Jump Movement" (available on [Steam](https://store.steampowered.com/app/1796570/Jump_Movement/))
 - Researcher and developer of Entity-Component-System architecture
 - Researcher of AI technologies for games
 
